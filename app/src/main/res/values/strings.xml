@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mathGame</string>
+    <string name="go">GO!</string>
+    <string name="textview">TextView</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="click_go">Click Go</string>
+    <string name="play">Play</string>
+    <string name="_10_secs">10 Secs</string>
+    <string name="_15_secs">15 Secs</string>
+    <string name="_20_secs">20 Secs</string>
+    <string name="show_score">Show Score</string>
+</resources>
