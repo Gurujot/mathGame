@@ -2,7 +2,7 @@
 
 ### Designing the game
 The purpose of this app was to create a simple arithmetic math game where the user is asked math questions 
-which get progressively more challenging(The progression of difficulty of the game can be modified in the code).
+which get progressively more challenging.
 
 ### Features of app
 - choose username
